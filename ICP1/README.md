@@ -4,4 +4,4 @@ Summary - In this ICP, we use Git, Github, Google Colaboratory, and python panda
 
 Wiki link - https://github.com/boroshs/BigData_ICPs/wiki/ICP1
 
-Video link -
+Video link - https://youtu.be/lbYuk0oscGM
