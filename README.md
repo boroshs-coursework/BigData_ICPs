@@ -4,4 +4,7 @@
 
 ICP1 wiki - https://github.com/boroshs/BigData_ICPs/wiki/ICP1
 
-ICP2 wiki - 
+ICP2 wiki - https://github.com/boroshs/BigData_ICPs/wiki/ICP2
+
+ICP3 wiki - https://github.com/boroshs/BigData_ICPs/wiki/ICP3
+
